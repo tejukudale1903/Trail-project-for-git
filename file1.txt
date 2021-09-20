@@ -1,5 +1,8 @@
 welcome to git session!!!
 
-updating : for new branch.....
-
 adding a new line in master branch...
+
+updating for new branch......
+
+change for the branch bug2
+
