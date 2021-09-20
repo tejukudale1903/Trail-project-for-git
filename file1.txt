@@ -1,3 +1,5 @@
 welcome to git session!!!
 
-updating for new branch.....
+updating for new branch......
+
+change for the branch bug2
