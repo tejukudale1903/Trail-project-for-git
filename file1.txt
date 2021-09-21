@@ -8,3 +8,4 @@ change for the branch bug2
 
 to fix bug1
 
+updating for fixing the bug2
