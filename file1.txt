@@ -1,10 +1,11 @@
-welcome to git session!!!
+Welcome to Git session!!!
 
-adding a new line in master branch...
+Adding a new line in master branch...
 
-updating for new branch......
+Updating for new branch......
 
-change for the branch bug2
+Change for the branch bug2
 
 to fix bug1
 
+updating for fixing the bug2
